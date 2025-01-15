@@ -8,10 +8,6 @@
 - 🌱 I’m currently learning **python**
 - 📫 How to reach me: **abdulwahedaldaghir0@gmail.com**
 
-<p align="center">
-  <img src="https://github.com/abdulwahed-s/abdulwahed-s/assets/157953358/0b9df182-099c-4320-838c-27e1817404b8" alt="GitHub Stats"/>
-</p>
-
 ---
 
 ### Connect with me:
