@@ -49,3 +49,6 @@
     <img src="https://pbs.twimg.com/profile_images/1272878358150275078/iBJehkOi_400x400.png" alt="after effects" width="40" height="40"/>
   </a>
 </p>
+
+---
+![snake gif](https://github.com/abdulwahed-s/abdulwahed-s/blob/output/github-snake-dark.svg)
