@@ -7,6 +7,8 @@
 - 🏫 I am a **software engineering major student**
 - 🌱 I’m currently learning **python**
 - 📫 How to reach me: **abdulwahedaldaghir0@gmail.com**
+- ❤️ I love mobile app development
+- 💬 Ask me about **flutter**
 
 ---
 
